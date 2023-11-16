@@ -2,18 +2,18 @@
     "geotechnicalengineering1.com": [
       {
         "id": "9empresademecanicadesuelos",
-        "imageUrl": "https://i.ibb.co/923YLH2/Slope-Stability007.webp",
-        "linkUrl": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
+        "imagen": "https://i.ibb.co/923YLH2/Slope-Stability007.webp",
+        "href": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
       },
       {
         "id": "8empresademecanicadesuelos",
-        "imageUrl": "https://i.ibb.co/BcmSZsL/Slope-Stability106.webp",
-        "linkUrl": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
+        "imagen": "https://i.ibb.co/BcmSZsL/Slope-Stability106.webp",
+        "href": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
       },
       {
         "id": "7empresademecanicadesuelos",
-        "imageUrl": "https://i.ibb.co/68x2Bf5/Slope-Stability145.webp",
-        "linkUrl": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
+        "imagen": "https://i.ibb.co/68x2Bf5/Slope-Stability145.webp",
+        "href": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
       }
     ]
 }
