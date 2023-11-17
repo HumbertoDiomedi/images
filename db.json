@@ -2,21 +2,18 @@
     "geotechnicalengineering1.com": [
       {
         "id": "9empresademecanicadesuelos",
-        "imagen": "https://i.ibb.co/923YLH2/Slope-Stability007.webp",
-        "titulo": "Título del Post 1",
-        "href": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
-      },
-      {
-        "id": "8empresademecanicadesuelos",
-        "imagen": "https://i.ibb.co/BcmSZsL/Slope-Stability106.webp",
-        "titulo": "Título del Post 2",
-        "href": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
-      },
-      {
-        "id": "7empresademecanicadesuelos",
-        "imagen": "https://i.ibb.co/68x2Bf5/Slope-Stability145.webp",
-        "titulo": "Título del Post 3",
-        "href": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
+        "imagen1": "https://i.ibb.co/923YLH2/Slope-Stability007.webp",
+        "titulo1": "Título del Post 1",
+        "href1": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
+        "imagen2": "https://i.ibb.co/BcmSZsL/Slope-Stability106.webp",
+        "titulo2": "Título del Post 2",
+        "href2": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
+        "imagen3": "https://i.ibb.co/68x2Bf5/Slope-Stability145.webp",
+        "titulo3": "Título del Post 3",
+        "href3": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
+        "imagen4": "https://i.ibb.co/923YLH2/Slope-Stability007.webp",
+        "titulo4": "Título del Post 1",
+        "href14": "https://10estudiodemurosdecontencion.1geotechnicalengineering.com/"
       }
     ]
 }
